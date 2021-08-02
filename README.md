@@ -1,2 +1,2 @@
 # telephone-keypad
-A typical telephone keypad built with JavaScript
+A typical telephone keypad built with JavaScript.
