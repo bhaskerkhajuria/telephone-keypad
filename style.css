@@ -6,6 +6,7 @@
 body{
     background-color: var(--body);
 }
+/* telephone conatainer */
 .telephone{
     background-color: #fff;
     width: 400px;
@@ -35,5 +36,14 @@ button{
 small {
     font-size: 0.8rem;
     display: block;
+    color: var(--darkgray);
+}
+/*f0oter*/
+footer{
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--darkgray);
+}
+footer a{
     color: var(--darkgray);
 }
